@@ -2,9 +2,9 @@
 
 Tento repozitář obsahuje seznam [Pi-hole](https://pi-hole.net/) blacklistů zaměřených na ochranu před nevhodným obsahem pro uživatele v České republice a na Slovensku. Seznam se zaměřuje na:
 
-- **[Hazardní weby a online casina](/erikni/pihole-block-betting-cz/)** – podle seznamu vydaného Ministerstvem financí ČR (MFČR), který je udržován ručně.
-- **[Rizikové e-shopy](/erikni/pihole-block-risky-eshops-cz/)** – dle seznamu České obchodní inspekce. (automatická denní aktualizace)
-- **[Dezinformační weby](/erikni/pihole-block-disinformation-webs/)** – dle seznamu Nadačního fondu nezávislé žurnalistiky a Konspiratori.sk (automatická denní aktualizace)
+- **[Hazardní weby a online casina](https://github.com/erikni/pihole-block-betting-cz/)** – podle seznamu vydaného Ministerstvem financí ČR (MFČR), který je udržován ručně.
+- **[Rizikové e-shopy](https://www.github.com/erikni/pihole-block-risky-eshops-cz/)** – dle seznamu České obchodní inspekce. (automatická denní aktualizace)
+- **[Dezinformační weby](https://www.github.com/erikni/pihole-block-disinformation-webs/)** – dle seznamu Nadačního fondu nezávislé žurnalistiky a Konspiratori.sk (automatická denní aktualizace)
 
 ## Jak používat
 
